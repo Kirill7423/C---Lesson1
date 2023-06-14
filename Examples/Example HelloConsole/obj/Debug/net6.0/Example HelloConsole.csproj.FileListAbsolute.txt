@@ -1,0 +1,15 @@
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\bin\Debug\net6.0\Example HelloConsole.exe
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\bin\Debug\net6.0\Example HelloConsole.deps.json
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\bin\Debug\net6.0\Example HelloConsole.runtimeconfig.json
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\bin\Debug\net6.0\Example HelloConsole.dll
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\bin\Debug\net6.0\Example HelloConsole.pdb
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.csproj.AssemblyReference.cache
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.AssemblyInfoInputs.cache
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.AssemblyInfo.cs
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.dll
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\refint\Example HelloConsole.dll
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.pdb
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\Example HelloConsole.genruntimeconfig.cache
+C:\Users\rkn-s\OneDrive\Desktop\Проекты\Examples\Example HelloConsole\obj\Debug\net6.0\ref\Example HelloConsole.dll
